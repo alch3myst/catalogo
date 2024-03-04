@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;600&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	position: relative;
+	box-sizing: border-box;
+	list-style-type: none;
+	text-decoration: none;
+	font-family: 'Noto Serif', serif;
+	scroll-behavior: smooth;
+
+	color: #59447a;
+}
+
+html {
+	font-size: 16px;
+}
+
+main {
+	contain: paint;
+	min-height: 80vh;
+}
+
+body {
+	background-color: #f1f0f3;
+}
